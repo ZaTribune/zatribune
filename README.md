@@ -23,6 +23,9 @@
 <img style="width:50px;height:50px" alt="JavaFX" src="https://github.com/ZaTribune/zatribune.github.io/blob/4d019d445ab73e149c2b6ac0cb6d1a596a97d28a/images/javafx.svg"/>
 </kbd>
 <kbd>
+<img style="width:50px;height:50px" alt="Android" src="https://github.com/ZaTribune/zatribune.github.io/blob/4d019d445ab73e149c2b6ac0cb6d1a596a97d28a/images/android.svg"/>
+</kbd>  
+<kbd>
 <img style="width:50px;height:50px" alt="Hibernate" src="https://github.com/ZaTribune/zatribune.github.io/blob/9a2918bb1e6b2d1bec72252bb6197005b1ed7c77/images/hibernate.svg"/>  
 </kbd>
 <kbd>
@@ -50,7 +53,7 @@
 <kbd>
   <img style="width:50px;height:50px" alt="Docker" src="https://github.com/ZaTribune/zatribune.github.io/blob/9a2918bb1e6b2d1bec72252bb6197005b1ed7c77/images/docker.svg"/>    
 </kbd>
-<kbd>
+<kbd style="margin:5px;">
   <img style="width:50px;height:50px" alt="Kubernetes" src="https://github.com/ZaTribune/zatribune.github.io/blob/9a2918bb1e6b2d1bec72252bb6197005b1ed7c77/images/kubernetes.svg"/>
 </kbd>
 
