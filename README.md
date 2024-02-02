@@ -7,21 +7,22 @@
   Each project is a manifestation of my dedication to helping others in their coding journey and fostering a sense of growth and collaboration within the community.    
 </div>  
 <br/>
-<br/>
 
-<p float="left">
+<div style="display: flex; flex-direction: row;">
 <kbd>
   <img style="width:50px;height:50px" alt="Java" src="https://github.com/ZaTribune/zatribune.github.io/blob/9a2918bb1e6b2d1bec72252bb6197005b1ed7c77/images/java.svg"/>    
 </kbd>  
 <kbd>
 <img style="width:50px;height:50px" alt="Javascript" src="https://github.com/ZaTribune/zatribune.github.io/blob/9a2918bb1e6b2d1bec72252bb6197005b1ed7c77/images/javascript.svg"/>
-</kbd>  
+</kbd> 
 <kbd>
   <img style="width:50px;height:50px" alt="Spring Framework" src="https://github.com/ZaTribune/zatribune.github.io/blob/9a2918bb1e6b2d1bec72252bb6197005b1ed7c77/images/spring.svg"/>
 </kbd>  
 <kbd>
 <img style="width:50px;height:50px" alt="JavaFX" src="https://github.com/ZaTribune/zatribune.github.io/blob/4d019d445ab73e149c2b6ac0cb6d1a596a97d28a/images/javafx.svg"/>
 </kbd>
+<br/>
+<br/>     
 <kbd>
 <img style="width:50px;height:50px" alt="Android" src="https://github.com/ZaTribune/zatribune.github.io/blob/4d019d445ab73e149c2b6ac0cb6d1a596a97d28a/images/android.svg"/>
 </kbd>  
@@ -35,6 +36,8 @@
 <kbd>
 <img style="width:50px;height:50px" alt="Drools" src="https://github.com/ZaTribune/zatribune.github.io/blob/9a2918bb1e6b2d1bec72252bb6197005b1ed7c77/images/drools.svg"/>  
 </kbd>  
+<br/>
+<br/>   
 <kbd>
   <img style="width:50px;height:50px" alt="Apache Kafka" src="https://github.com/ZaTribune/zatribune.github.io/blob/9a2918bb1e6b2d1bec72252bb6197005b1ed7c77/images/kafka.svg"/>
 </kbd>  
@@ -47,14 +50,16 @@
 <kbd>
  <img style="width:50px;height:50px" alt="Keycloak" src="https://github.com/ZaTribune/zatribune.github.io/blob/9a2918bb1e6b2d1bec72252bb6197005b1ed7c77/images/keycloak.svg"/> 
 </kbd>
+<br/>
+<br/>     
 <kbd>
  <img style="width:50px;height:50px" alt="Redis" src="https://github.com/ZaTribune/zatribune.github.io/blob/9a2918bb1e6b2d1bec72252bb6197005b1ed7c77/images/redis.svg"/> 
 </kbd>
 <kbd>
   <img style="width:50px;height:50px" alt="Docker" src="https://github.com/ZaTribune/zatribune.github.io/blob/9a2918bb1e6b2d1bec72252bb6197005b1ed7c77/images/docker.svg"/>    
 </kbd>
-<kbd style="margin:5px;">
+<kbd>
   <img style="width:50px;height:50px" alt="Kubernetes" src="https://github.com/ZaTribune/zatribune.github.io/blob/9a2918bb1e6b2d1bec72252bb6197005b1ed7c77/images/kubernetes.svg"/>
 </kbd>
 
-</p>
+</div>
