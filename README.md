@@ -35,7 +35,7 @@
 <img style="width:50px;height:50px" alt="Drools" src="https://github.com/ZaTribune/zatribune.github.io/blob/9a2918bb1e6b2d1bec72252bb6197005b1ed7c77/images/drools.svg"/>  
 </figure>  
 <figure>
-  <img style="width:50px;height:50px" alt="Apache Kafka" src="https://github.com/ZaTribune/zatribune.github.io/blob/9a2918bb1e6b2d1bec72252bb6197005b1ed7c77/images/kafka.svg"/>
+  <img style="width:50px;height:50px" alt="Apache Kafka" src="https://github.com/ZaTribune/zatribune.github.io/blob/e27647f2672bc1f15d2a1775e8be9e2455730d7c/images/kafka.svg"/>
 </figure>  
 <figure>
 <img style="width:50px;height:50px" alt="ActiveMQ" src="https://github.com/ZaTribune/zatribune.github.io/blob/9a2918bb1e6b2d1bec72252bb6197005b1ed7c77/images/activemq.svg"/>  
