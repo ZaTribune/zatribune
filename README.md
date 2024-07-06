@@ -1,10 +1,10 @@
 [![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=zatribune\&show_icons=true\&rank_icon=github\&hide=contribs,issues,rating\&repo=github-readme-stats\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="left">
-  On this profile, you'll find a collection of projects that I've crafted with the intention of assisting fellow developers and providing valuable learning resources.     
+  On this profile, you'll find a collection of projects that I've created to assist myself and my fellow developers by providing valuable learning resources.     
 </div>
 <div align="left">
-  Each project is a manifestation of my dedication to helping others in their coding journey and fostering a sense of growth and collaboration within the community.    
+  I like helping others in their coding journey and fostering a sense of growth and collaboration within the community.    
 </div>  
 <br/>
 
