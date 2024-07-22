@@ -1,4 +1,4 @@
-[![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=zatribune\&show_icons=true\&rank_icon=github\&hide=contribs,issues,rating\&repo=github-readme-stats\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+[![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=zatribune\&show_icons=true\&show_owner=false\&hide_rank=true\&rank_icon=github\&hide=contribs,issues,rating\&repo=github-readme-stats\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/zatribune)
 
 <div align="left">
   On this profile, you'll find a collection of projects that I've created to assist myself and my fellow developers by providing valuable learning resources.     
